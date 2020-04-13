@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CompanyCatalog</string>
+
+    <!--Errors-->
+    <string name="message_error_connect">Отсутствует соединение с интернетом</string>
+    <string name="message_error_default">Сервер не доступен. Попробуйте позже.</string>
+    <string name="message_error_socket">Слишком медленный интернет. Попробуйте другой.</string>
+    <string name="message_technical_works">В данный момент на сервере проводятся технические работы</string>
+
+    <string name="company_list_screen_title">Company List</string>
+    <string name="company_detail_screen_title">Company Detail</string>
+
+    <string name="error">Ошибка!</string>
+    <string name="retry">Повторить</string>
+    <string name="list_empty">Список пуст!</string>
+
+    <string name="website">Сайт:</string>
+    <string name="phone">Номер телефона:</string>
+    <string name="geo">Открыть в Google Maps</string>
+
+</resources>
